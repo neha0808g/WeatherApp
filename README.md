@@ -1,1 +1,1 @@
-#This is a weather app to check weather of any city.
+#This is a weather app to check weather of any city along with the humidity and wind speed.
